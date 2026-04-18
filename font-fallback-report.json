@@ -1,0 +1,44 @@
+{
+  "boxMetrics": {
+    "sans": {
+      "width": 72,
+      "height": 31,
+      "fontFamily": "sans-serif"
+    },
+    "pf": {
+      "width": 72,
+      "height": 34,
+      "fontFamily": "\"PingFang SC\", sans-serif"
+    },
+    "my": {
+      "width": 72,
+      "height": 31,
+      "fontFamily": "\"Microsoft YaHei\", sans-serif"
+    },
+    "noto": {
+      "width": 72,
+      "height": 31,
+      "fontFamily": "\"Noto Sans CJK SC\", sans-serif"
+    },
+    "han": {
+      "width": 72,
+      "height": 31,
+      "fontFamily": "\"Source Han Sans SC\", sans-serif"
+    },
+    "chain": {
+      "width": 72,
+      "height": 34,
+      "fontFamily": "Inter, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", \"Source Han Sans SC\", sans-serif"
+    }
+  },
+  "fontAvailability": {
+    "PingFang SC": true,
+    "Microsoft YaHei": true,
+    "Noto Sans CJK SC": true,
+    "Source Han Sans SC": true
+  },
+  "conclusion": {
+    "chainRendersCJK": true,
+    "sansWouldFail": false
+  }
+}

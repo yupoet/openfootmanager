@@ -1,0 +1,8 @@
+{
+  "sample": "新游戏",
+  "fontFamily": "Inter, Avenir, Helvetica, Arial, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", \"Source Han Sans SC\", sans-serif",
+  "fontSize": "16px",
+  "width": 382,
+  "height": 60,
+  "tag": "BUTTON"
+}

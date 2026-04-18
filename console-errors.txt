@@ -1,0 +1,4 @@
+Failed to get match snapshot: TypeError: Cannot read properties of null (reading 'away_team')
+    at fetchSnapshot (http://127.0.0.1:1420/src/pages/MatchSimulation.tsx:94:24)
+Failed to get match snapshot: TypeError: Cannot read properties of null (reading 'away_team')
+    at fetchSnapshot (http://127.0.0.1:1420/src/pages/MatchSimulation.tsx:94:24)
